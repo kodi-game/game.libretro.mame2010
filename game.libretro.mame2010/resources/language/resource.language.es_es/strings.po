@@ -17,6 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.7.1\n"
 
+msgctxt "Addon Summary"
+msgid "Arcade (MAME 2010) 0.139"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Late 2010 version of MAME (0.139) for libretro. Compatible with MAME 0.139 sets.
+
+Supported files: .zip, .chd, .7z"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Ajustes"
