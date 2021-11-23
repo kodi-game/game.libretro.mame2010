@@ -22,6 +22,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Arcade (MAME 2010) 0.139</summary>
+		<description lang="da_DK">Sen 2010-version af MAME (0.139) til libretro. Kompatibel med MAME 0.139 sæt.</description>
 		<description lang="en_GB">Late 2010 version of MAME (0.139) for libretro. Compatible with MAME 0.139 sets.</description>
 	</extension>
 </addon>
