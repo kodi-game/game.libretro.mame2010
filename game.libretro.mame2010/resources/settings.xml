@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="30000">
-		<setting label="30001" type="select" id="mame_current_mouse_enable" values="enabled|disabled" default="enabled"/>
+		<setting label="30001" type="select" id="mame_current_xy_type" values="mouse|lightgun|none" default="mouse"/>
 		<setting label="30002" type="select" id="mame_current_videoapproach1_enable" values="disabled|enabled" default="disabled"/>
 		<setting label="30003" type="select" id="mame_current_skip_nagscreen" values="enabled|disabled" default="enabled"/>
 		<setting label="30004" type="select" id="mame_current_skip_gameinfo" values="disabled|enabled" default="disabled"/>
