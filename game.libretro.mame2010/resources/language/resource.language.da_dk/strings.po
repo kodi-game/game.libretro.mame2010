@@ -30,8 +30,8 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "Mouse enabled"
-msgstr "Mus aktiveret"
+msgid "XY device type (Restart)"
+msgstr ""
 
 msgctxt "#30002"
 msgid "Video approach 1 Enabled"
@@ -84,3 +84,7 @@ msgstr "Indstil gamma"
 msgctxt "#30014"
 msgid "Use external hiscore.dat"
 msgstr "Brug ekstern hiscore.dat"
+
+#~ msgctxt "#30001"
+#~ msgid "Mouse enabled"
+#~ msgstr "Mus aktiveret"

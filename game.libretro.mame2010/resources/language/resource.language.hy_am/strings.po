@@ -29,7 +29,7 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Mouse enabled"
+msgid "XY device type (Restart)"
 msgstr ""
 
 msgctxt "#30002"
