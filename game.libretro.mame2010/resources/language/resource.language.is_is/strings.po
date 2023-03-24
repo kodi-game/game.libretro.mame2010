@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
 msgctxt "Addon Summary"
-msgid "Arcade (MAME 2010) 0.139"
+msgid "Arcade (MAME 2010)"
 msgstr ""
 
 msgctxt "Addon Description"
