@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Late 2010 version of MAME (0.139) for libretro. Compatible with MAME 0.139 sets."
 msgstr "Sen 2010-version af MAME (0.139) til libretro. Kompatibel med MAME 0.139 sæt."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "XY device type (Restart)"
 msgstr "XY enhedstype (genstart)"
@@ -84,6 +80,10 @@ msgstr "Indstil gamma"
 msgctxt "#30014"
 msgid "Use external hiscore.dat"
 msgstr "Brug ekstern hiscore.dat"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "#30001"
 #~ msgid "Mouse enabled"

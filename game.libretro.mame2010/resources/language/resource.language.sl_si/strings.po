@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Late 2010 version of MAME (0.139) for libretro. Compatible with MAME 0.139 sets."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Nastavitve"
-
 msgctxt "#30001"
 msgid "XY device type (Restart)"
 msgstr ""
@@ -84,3 +80,7 @@ msgstr ""
 msgctxt "#30014"
 msgid "Use external hiscore.dat"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Nastavitve"
