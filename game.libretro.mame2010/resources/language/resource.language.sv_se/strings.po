@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mame2010\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2018-09-02 20:26i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mame2010/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Arcade (MAME 2010)"
@@ -25,61 +25,69 @@ msgctxt "Addon Description"
 msgid "Late 2010 version of MAME (0.139) for libretro. Compatible with MAME 0.139 sets."
 msgstr "Sen 2010-version av MAME (0.139) för libretro. Kompatibel med MAME 0.139-uppsättningar."
 
+#, fuzzy
 msgctxt "#30001"
 msgid "XY device type (Restart)"
-msgstr ""
+msgstr "Typ av XY-enhet (omstart)"
 
+#, fuzzy
 msgctxt "#30002"
 msgid "Video approach 1 Enabled"
-msgstr ""
+msgstr "Videoanslutning 1 Aktiverad"
 
+#, fuzzy
 msgctxt "#30003"
 msgid "Hide nag screen"
-msgstr ""
+msgstr "Dölj nag-skärmen"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "Hide game info screen"
-msgstr ""
+msgstr "Dölj skärmen för spelinformation"
 
 msgctxt "#30005"
 msgid "Hide warning screen"
-msgstr ""
+msgstr "Dölj varningsskärm"
 
+#, fuzzy
 msgctxt "#30006"
 msgid "Core provided aspect ratio"
-msgstr ""
+msgstr "Kärnan tillhandahålls bildförhållande"
 
 msgctxt "#30007"
 msgid "Enable autofire"
-msgstr ""
+msgstr "Aktivera automatisk avfyrning"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "Set autofire pulse speed"
-msgstr ""
+msgstr "Ställ in pulshastighet för automatisk avfyrning"
 
+#, fuzzy
 msgctxt "#30009"
 msgid "Set frameskip"
-msgstr ""
+msgstr "Ställ in ramar hoppa över"
 
+#, fuzzy
 msgctxt "#30010"
 msgid "Set sample rate (Restart)"
-msgstr ""
+msgstr "Ställ in samplingsfrekvens (omstart)"
 
 msgctxt "#30011"
 msgid "Set brightness"
-msgstr ""
+msgstr "Ställ in ljusstyrka"
 
 msgctxt "#30012"
 msgid "Set contrast"
-msgstr ""
+msgstr "Ställ in kontrast"
 
 msgctxt "#30013"
 msgid "Set gamma"
-msgstr ""
+msgstr "Ställ in gamma"
 
 msgctxt "#30014"
 msgid "Use external hiscore.dat"
-msgstr ""
+msgstr "Använd extern hiscore.dat"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
