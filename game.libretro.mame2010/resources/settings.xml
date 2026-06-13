@@ -16,5 +16,6 @@
 		<setting label="30012" type="select" id="mame_current_adj_contrast" values="default|+1%|+2%|+3%|+4%|+5%|+6%|+7%|+8%|+9%|+10%|+11%|+12%|+13%|+14%|+15%|+16%|+17%|+18%|+19%|+20%|-20%|-19%|-18%|-17%|-16%|-15%|-14%|-13%|-12%|-11%|-10%|-9%|-8%|-7%|-6%|-5%|-4%|-3%|-2%|-1%" default="default"/>
 		<setting label="30013" type="select" id="mame_current_adj_gamma" values="default|+1%|+2%|+3%|+4%|+5%|+6%|+7%|+8%|+9%|+10%|+11%|+12%|+13%|+14%|+15%|+16%|+17%|+18%|+19%|+20%|-20%|-19%|-18%|-17%|-16%|-15%|-14%|-13%|-12%|-11%|-10%|-9%|-8%|-7%|-6%|-5%|-4%|-3%|-2%|-1%" default="default"/>
 		<setting label="30014" type="select" id="mame-external_hiscore" values="disabled|enabled" default="disabled"/>
+		<setting label="30016" type="select" id="mame2010-qsound_hle" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>
