@@ -81,6 +81,14 @@ msgctxt "#30014"
 msgid "Use external hiscore.dat"
 msgstr ""
 
+msgctxt "#30015"
+msgid "Enable multithreading (Restart)"
+msgstr ""
+
+msgctxt "#30016"
+msgid "QSound HLE spatial filter (Restart)"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Configurações"
