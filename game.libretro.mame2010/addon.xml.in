@@ -22,6 +22,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="cs_CZ">Arkáda (MAME 2010)</summary>
 		<summary lang="da_DK">Arcade (MAME 2010)</summary>
 		<summary lang="en_GB">Arcade (MAME 2010)</summary>
 		<summary lang="es_ES">Arcade (MAME 2010)</summary>
@@ -29,6 +30,7 @@
 		<summary lang="ru_RU">Аркада (MAME 2010)</summary>
 		<summary lang="sv_SE">Arcade (MAME 2010)</summary>
 		<summary lang="zh_CN">街机（MAME 2010）</summary>
+		<description lang="cs_CZ">Verze MAME z konce roku 2010 (0.139) pro Libretro. Kompatibilní se sadami MAME 0.139.</description>
 		<description lang="da_DK">Sen 2010-version af MAME (0.139) til libretro. Kompatibel med MAME 0.139 sæt.</description>
 		<description lang="de_DE">Späte 2010-Version von MAME (0.139) für libretro. Kompatibel mit MAME 0.139 Sets.</description>
 		<description lang="en_GB">Late 2010 version of MAME (0.139) for libretro. Compatible with MAME 0.139 sets.</description>
