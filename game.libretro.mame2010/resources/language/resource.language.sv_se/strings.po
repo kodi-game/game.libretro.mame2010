@@ -66,11 +66,6 @@ msgctxt "#30009"
 msgid "Set frameskip"
 msgstr "Ställ in ramar hoppa över"
 
-#, fuzzy
-msgctxt "#30010"
-msgid "Set sample rate (Restart)"
-msgstr "Ställ in samplingsfrekvens (omstart)"
-
 msgctxt "#30011"
 msgid "Set brightness"
 msgstr "Ställ in ljusstyrka"
@@ -94,6 +89,15 @@ msgstr ""
 msgctxt "#30016"
 msgid "QSound HLE spatial filter (Restart)"
 msgstr ""
+
+msgctxt "#30017"
+msgid "Sample rate hint (Restart)"
+msgstr ""
+
+#, fuzzy
+#~ msgctxt "#30010"
+#~ msgid "Set sample rate (Restart)"
+#~ msgstr "Ställ in samplingsfrekvens (omstart)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

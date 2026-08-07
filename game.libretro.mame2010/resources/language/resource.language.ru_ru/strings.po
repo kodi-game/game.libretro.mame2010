@@ -61,10 +61,6 @@ msgctxt "#30009"
 msgid "Set frameskip"
 msgstr "Установить пропуск кадров"
 
-msgctxt "#30010"
-msgid "Set sample rate (Restart)"
-msgstr "Установить частоту дискретизации (требуется перезапуск)"
-
 msgctxt "#30011"
 msgid "Set brightness"
 msgstr "Установить яркость"
@@ -88,6 +84,14 @@ msgstr "Включить многопоточность (перезапуск)"
 msgctxt "#30016"
 msgid "QSound HLE spatial filter (Restart)"
 msgstr ""
+
+msgctxt "#30017"
+msgid "Sample rate hint (Restart)"
+msgstr ""
+
+#~ msgctxt "#30010"
+#~ msgid "Set sample rate (Restart)"
+#~ msgstr "Установить частоту дискретизации (требуется перезапуск)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

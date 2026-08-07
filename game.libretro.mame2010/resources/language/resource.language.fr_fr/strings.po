@@ -61,10 +61,6 @@ msgctxt "#30009"
 msgid "Set frameskip"
 msgstr ""
 
-msgctxt "#30010"
-msgid "Set sample rate (Restart)"
-msgstr ""
-
 msgctxt "#30011"
 msgid "Set brightness"
 msgstr ""
@@ -87,6 +83,10 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "QSound HLE spatial filter (Restart)"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Sample rate hint (Restart)"
 msgstr ""
 
 #~ msgctxt "#30000"

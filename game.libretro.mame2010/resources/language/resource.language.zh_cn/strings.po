@@ -61,10 +61,6 @@ msgctxt "#30009"
 msgid "Set frameskip"
 msgstr "设置跳帧"
 
-msgctxt "#30010"
-msgid "Set sample rate (Restart)"
-msgstr "设置采样率（重启）"
-
 msgctxt "#30011"
 msgid "Set brightness"
 msgstr "设置亮度"
@@ -88,6 +84,14 @@ msgstr "启用多线程（需重启）"
 msgctxt "#30016"
 msgid "QSound HLE spatial filter (Restart)"
 msgstr "QSound 硬件模拟空间滤波（需重启）"
+
+msgctxt "#30017"
+msgid "Sample rate hint (Restart)"
+msgstr ""
+
+#~ msgctxt "#30010"
+#~ msgid "Set sample rate (Restart)"
+#~ msgstr "设置采样率（重启）"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

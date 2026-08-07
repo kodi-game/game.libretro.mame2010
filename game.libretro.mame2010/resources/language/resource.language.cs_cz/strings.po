@@ -61,10 +61,6 @@ msgctxt "#30009"
 msgid "Set frameskip"
 msgstr "Nastavit přeskakování snímků"
 
-msgctxt "#30010"
-msgid "Set sample rate (Restart)"
-msgstr "Nastavit vzorkovací frekvenci (vyžaduje restart)"
-
 msgctxt "#30011"
 msgid "Set brightness"
 msgstr "Nastavit jas"
@@ -88,3 +84,11 @@ msgstr "Povolit vícevláknové zpracování (vyžaduje restart)"
 msgctxt "#30016"
 msgid "QSound HLE spatial filter (Restart)"
 msgstr "Prostorový filtr HLE QSound (vyžaduje restart)"
+
+msgctxt "#30017"
+msgid "Sample rate hint (Restart)"
+msgstr ""
+
+#~ msgctxt "#30010"
+#~ msgid "Set sample rate (Restart)"
+#~ msgstr "Nastavit vzorkovací frekvenci (vyžaduje restart)"
