@@ -89,6 +89,222 @@ msgctxt "#30017"
 msgid "Sample rate hint (Restart)"
 msgstr ""
 
+msgctxt "#30018"
+msgid "mouse"
+msgstr ""
+
+msgctxt "#30019"
+msgid "lightgun"
+msgstr ""
+
+msgctxt "#30020"
+msgid "button 1"
+msgstr ""
+
+msgctxt "#30021"
+msgid "button 2"
+msgstr ""
+
+msgctxt "#30022"
+msgid "R2 to button 1 mapping"
+msgstr ""
+
+msgctxt "#30023"
+msgid "R2 to button 2 mapping"
+msgstr ""
+
+msgctxt "#30024"
+msgid "48000Hz"
+msgstr ""
+
+msgctxt "#30025"
+msgid "44100Hz"
+msgstr ""
+
+msgctxt "#30026"
+msgid "32000Hz"
+msgstr ""
+
+msgctxt "#30027"
+msgid "22050Hz"
+msgstr ""
+
+msgctxt "#30028"
+msgid "11025Hz"
+msgstr ""
+
+msgctxt "#30029"
+msgid "8000Hz"
+msgstr ""
+
+msgctxt "#30030"
+msgid "96000Hz"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Manual"
+msgstr ""
+
+msgctxt "#30032"
+msgid "+1%"
+msgstr ""
+
+msgctxt "#30033"
+msgid "+2%"
+msgstr ""
+
+msgctxt "#30034"
+msgid "+3%"
+msgstr ""
+
+msgctxt "#30035"
+msgid "+4%"
+msgstr ""
+
+msgctxt "#30036"
+msgid "+5%"
+msgstr ""
+
+msgctxt "#30037"
+msgid "+6%"
+msgstr ""
+
+msgctxt "#30038"
+msgid "+7%"
+msgstr ""
+
+msgctxt "#30039"
+msgid "+8%"
+msgstr ""
+
+msgctxt "#30040"
+msgid "+9%"
+msgstr ""
+
+msgctxt "#30041"
+msgid "+10%"
+msgstr ""
+
+msgctxt "#30042"
+msgid "+11%"
+msgstr ""
+
+msgctxt "#30043"
+msgid "+12%"
+msgstr ""
+
+msgctxt "#30044"
+msgid "+13%"
+msgstr ""
+
+msgctxt "#30045"
+msgid "+14%"
+msgstr ""
+
+msgctxt "#30046"
+msgid "+15%"
+msgstr ""
+
+msgctxt "#30047"
+msgid "+16%"
+msgstr ""
+
+msgctxt "#30048"
+msgid "+17%"
+msgstr ""
+
+msgctxt "#30049"
+msgid "+18%"
+msgstr ""
+
+msgctxt "#30050"
+msgid "+19%"
+msgstr ""
+
+msgctxt "#30051"
+msgid "+20%"
+msgstr ""
+
+msgctxt "#30052"
+msgid "-20%"
+msgstr ""
+
+msgctxt "#30053"
+msgid "-19%"
+msgstr ""
+
+msgctxt "#30054"
+msgid "-18%"
+msgstr ""
+
+msgctxt "#30055"
+msgid "-17%"
+msgstr ""
+
+msgctxt "#30056"
+msgid "-16%"
+msgstr ""
+
+msgctxt "#30057"
+msgid "-15%"
+msgstr ""
+
+msgctxt "#30058"
+msgid "-14%"
+msgstr ""
+
+msgctxt "#30059"
+msgid "-13%"
+msgstr ""
+
+msgctxt "#30060"
+msgid "-12%"
+msgstr ""
+
+msgctxt "#30061"
+msgid "-11%"
+msgstr ""
+
+msgctxt "#30062"
+msgid "-10%"
+msgstr ""
+
+msgctxt "#30063"
+msgid "-9%"
+msgstr ""
+
+msgctxt "#30064"
+msgid "-8%"
+msgstr ""
+
+msgctxt "#30065"
+msgid "-7%"
+msgstr ""
+
+msgctxt "#30066"
+msgid "-6%"
+msgstr ""
+
+msgctxt "#30067"
+msgid "-5%"
+msgstr ""
+
+msgctxt "#30068"
+msgid "-4%"
+msgstr ""
+
+msgctxt "#30069"
+msgid "-3%"
+msgstr ""
+
+msgctxt "#30070"
+msgid "-2%"
+msgstr ""
+
+msgctxt "#30071"
+msgid "-1%"
+msgstr ""
+
 #~ msgctxt "#30010"
 #~ msgid "Set sample rate (Restart)"
 #~ msgstr "设置采样率（重启）"
