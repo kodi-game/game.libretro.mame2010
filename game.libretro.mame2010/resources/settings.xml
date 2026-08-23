@@ -10,7 +10,7 @@
 						<options>
 							<option>mouse</option>
 							<option>lightgun</option>
-							<option>none</option>
+							<option label="231">none</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -20,8 +20,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -31,8 +31,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -42,8 +42,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -53,8 +53,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -75,7 +75,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option>button 1</option>
 							<option>button 2</option>
 							<option>R2 to button 1 mapping</option>
@@ -128,7 +128,7 @@
 							<option>11025Hz</option>
 							<option>8000Hz</option>
 							<option>96000Hz</option>
-							<option>Auto</option>
+							<option label="16316">Auto</option>
 							<option>Manual</option>
 						</options>
 					</constraints>
@@ -139,8 +139,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -150,7 +150,7 @@
 					<default>default</default>
 					<constraints>
 						<options>
-							<option>default</option>
+							<option label="571">default</option>
 							<option>+1%</option>
 							<option>+2%</option>
 							<option>+3%</option>
@@ -200,7 +200,7 @@
 					<default>default</default>
 					<constraints>
 						<options>
-							<option>default</option>
+							<option label="571">default</option>
 							<option>+1%</option>
 							<option>+2%</option>
 							<option>+3%</option>
@@ -250,7 +250,7 @@
 					<default>default</default>
 					<constraints>
 						<options>
-							<option>default</option>
+							<option label="571">default</option>
 							<option>+1%</option>
 							<option>+2%</option>
 							<option>+3%</option>
@@ -300,8 +300,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -311,8 +311,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
