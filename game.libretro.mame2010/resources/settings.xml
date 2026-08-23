@@ -8,8 +8,8 @@
 					<default>mouse</default>
 					<constraints>
 						<options>
-							<option>mouse</option>
-							<option>lightgun</option>
+							<option label="30018">mouse</option>
+							<option label="30019">lightgun</option>
 							<option label="231">none</option>
 						</options>
 					</constraints>
@@ -76,10 +76,10 @@
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
-							<option>button 1</option>
-							<option>button 2</option>
-							<option>R2 to button 1 mapping</option>
-							<option>R2 to button 2 mapping</option>
+							<option label="30020">button 1</option>
+							<option label="30021">button 2</option>
+							<option label="30022">R2 to button 1 mapping</option>
+							<option label="30023">R2 to button 2 mapping</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -121,15 +121,15 @@
 					<default>48000Hz</default>
 					<constraints>
 						<options>
-							<option>48000Hz</option>
-							<option>44100Hz</option>
-							<option>32000Hz</option>
-							<option>22050Hz</option>
-							<option>11025Hz</option>
-							<option>8000Hz</option>
-							<option>96000Hz</option>
+							<option label="30024">48000Hz</option>
+							<option label="30025">44100Hz</option>
+							<option label="30026">32000Hz</option>
+							<option label="30027">22050Hz</option>
+							<option label="30028">11025Hz</option>
+							<option label="30029">8000Hz</option>
+							<option label="30030">96000Hz</option>
 							<option label="16316">Auto</option>
-							<option>Manual</option>
+							<option label="30031">Manual</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -151,46 +151,46 @@
 					<constraints>
 						<options>
 							<option label="571">default</option>
-							<option>+1%</option>
-							<option>+2%</option>
-							<option>+3%</option>
-							<option>+4%</option>
-							<option>+5%</option>
-							<option>+6%</option>
-							<option>+7%</option>
-							<option>+8%</option>
-							<option>+9%</option>
-							<option>+10%</option>
-							<option>+11%</option>
-							<option>+12%</option>
-							<option>+13%</option>
-							<option>+14%</option>
-							<option>+15%</option>
-							<option>+16%</option>
-							<option>+17%</option>
-							<option>+18%</option>
-							<option>+19%</option>
-							<option>+20%</option>
-							<option>-20%</option>
-							<option>-19%</option>
-							<option>-18%</option>
-							<option>-17%</option>
-							<option>-16%</option>
-							<option>-15%</option>
-							<option>-14%</option>
-							<option>-13%</option>
-							<option>-12%</option>
-							<option>-11%</option>
-							<option>-10%</option>
-							<option>-9%</option>
-							<option>-8%</option>
-							<option>-7%</option>
-							<option>-6%</option>
-							<option>-5%</option>
-							<option>-4%</option>
-							<option>-3%</option>
-							<option>-2%</option>
-							<option>-1%</option>
+							<option label="30032">+1%</option>
+							<option label="30033">+2%</option>
+							<option label="30034">+3%</option>
+							<option label="30035">+4%</option>
+							<option label="30036">+5%</option>
+							<option label="30037">+6%</option>
+							<option label="30038">+7%</option>
+							<option label="30039">+8%</option>
+							<option label="30040">+9%</option>
+							<option label="30041">+10%</option>
+							<option label="30042">+11%</option>
+							<option label="30043">+12%</option>
+							<option label="30044">+13%</option>
+							<option label="30045">+14%</option>
+							<option label="30046">+15%</option>
+							<option label="30047">+16%</option>
+							<option label="30048">+17%</option>
+							<option label="30049">+18%</option>
+							<option label="30050">+19%</option>
+							<option label="30051">+20%</option>
+							<option label="30052">-20%</option>
+							<option label="30053">-19%</option>
+							<option label="30054">-18%</option>
+							<option label="30055">-17%</option>
+							<option label="30056">-16%</option>
+							<option label="30057">-15%</option>
+							<option label="30058">-14%</option>
+							<option label="30059">-13%</option>
+							<option label="30060">-12%</option>
+							<option label="30061">-11%</option>
+							<option label="30062">-10%</option>
+							<option label="30063">-9%</option>
+							<option label="30064">-8%</option>
+							<option label="30065">-7%</option>
+							<option label="30066">-6%</option>
+							<option label="30067">-5%</option>
+							<option label="30068">-4%</option>
+							<option label="30069">-3%</option>
+							<option label="30070">-2%</option>
+							<option label="30071">-1%</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -201,46 +201,46 @@
 					<constraints>
 						<options>
 							<option label="571">default</option>
-							<option>+1%</option>
-							<option>+2%</option>
-							<option>+3%</option>
-							<option>+4%</option>
-							<option>+5%</option>
-							<option>+6%</option>
-							<option>+7%</option>
-							<option>+8%</option>
-							<option>+9%</option>
-							<option>+10%</option>
-							<option>+11%</option>
-							<option>+12%</option>
-							<option>+13%</option>
-							<option>+14%</option>
-							<option>+15%</option>
-							<option>+16%</option>
-							<option>+17%</option>
-							<option>+18%</option>
-							<option>+19%</option>
-							<option>+20%</option>
-							<option>-20%</option>
-							<option>-19%</option>
-							<option>-18%</option>
-							<option>-17%</option>
-							<option>-16%</option>
-							<option>-15%</option>
-							<option>-14%</option>
-							<option>-13%</option>
-							<option>-12%</option>
-							<option>-11%</option>
-							<option>-10%</option>
-							<option>-9%</option>
-							<option>-8%</option>
-							<option>-7%</option>
-							<option>-6%</option>
-							<option>-5%</option>
-							<option>-4%</option>
-							<option>-3%</option>
-							<option>-2%</option>
-							<option>-1%</option>
+							<option label="30032">+1%</option>
+							<option label="30033">+2%</option>
+							<option label="30034">+3%</option>
+							<option label="30035">+4%</option>
+							<option label="30036">+5%</option>
+							<option label="30037">+6%</option>
+							<option label="30038">+7%</option>
+							<option label="30039">+8%</option>
+							<option label="30040">+9%</option>
+							<option label="30041">+10%</option>
+							<option label="30042">+11%</option>
+							<option label="30043">+12%</option>
+							<option label="30044">+13%</option>
+							<option label="30045">+14%</option>
+							<option label="30046">+15%</option>
+							<option label="30047">+16%</option>
+							<option label="30048">+17%</option>
+							<option label="30049">+18%</option>
+							<option label="30050">+19%</option>
+							<option label="30051">+20%</option>
+							<option label="30052">-20%</option>
+							<option label="30053">-19%</option>
+							<option label="30054">-18%</option>
+							<option label="30055">-17%</option>
+							<option label="30056">-16%</option>
+							<option label="30057">-15%</option>
+							<option label="30058">-14%</option>
+							<option label="30059">-13%</option>
+							<option label="30060">-12%</option>
+							<option label="30061">-11%</option>
+							<option label="30062">-10%</option>
+							<option label="30063">-9%</option>
+							<option label="30064">-8%</option>
+							<option label="30065">-7%</option>
+							<option label="30066">-6%</option>
+							<option label="30067">-5%</option>
+							<option label="30068">-4%</option>
+							<option label="30069">-3%</option>
+							<option label="30070">-2%</option>
+							<option label="30071">-1%</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -251,46 +251,46 @@
 					<constraints>
 						<options>
 							<option label="571">default</option>
-							<option>+1%</option>
-							<option>+2%</option>
-							<option>+3%</option>
-							<option>+4%</option>
-							<option>+5%</option>
-							<option>+6%</option>
-							<option>+7%</option>
-							<option>+8%</option>
-							<option>+9%</option>
-							<option>+10%</option>
-							<option>+11%</option>
-							<option>+12%</option>
-							<option>+13%</option>
-							<option>+14%</option>
-							<option>+15%</option>
-							<option>+16%</option>
-							<option>+17%</option>
-							<option>+18%</option>
-							<option>+19%</option>
-							<option>+20%</option>
-							<option>-20%</option>
-							<option>-19%</option>
-							<option>-18%</option>
-							<option>-17%</option>
-							<option>-16%</option>
-							<option>-15%</option>
-							<option>-14%</option>
-							<option>-13%</option>
-							<option>-12%</option>
-							<option>-11%</option>
-							<option>-10%</option>
-							<option>-9%</option>
-							<option>-8%</option>
-							<option>-7%</option>
-							<option>-6%</option>
-							<option>-5%</option>
-							<option>-4%</option>
-							<option>-3%</option>
-							<option>-2%</option>
-							<option>-1%</option>
+							<option label="30032">+1%</option>
+							<option label="30033">+2%</option>
+							<option label="30034">+3%</option>
+							<option label="30035">+4%</option>
+							<option label="30036">+5%</option>
+							<option label="30037">+6%</option>
+							<option label="30038">+7%</option>
+							<option label="30039">+8%</option>
+							<option label="30040">+9%</option>
+							<option label="30041">+10%</option>
+							<option label="30042">+11%</option>
+							<option label="30043">+12%</option>
+							<option label="30044">+13%</option>
+							<option label="30045">+14%</option>
+							<option label="30046">+15%</option>
+							<option label="30047">+16%</option>
+							<option label="30048">+17%</option>
+							<option label="30049">+18%</option>
+							<option label="30050">+19%</option>
+							<option label="30051">+20%</option>
+							<option label="30052">-20%</option>
+							<option label="30053">-19%</option>
+							<option label="30054">-18%</option>
+							<option label="30055">-17%</option>
+							<option label="30056">-16%</option>
+							<option label="30057">-15%</option>
+							<option label="30058">-14%</option>
+							<option label="30059">-13%</option>
+							<option label="30060">-12%</option>
+							<option label="30061">-11%</option>
+							<option label="30062">-10%</option>
+							<option label="30063">-9%</option>
+							<option label="30064">-8%</option>
+							<option label="30065">-7%</option>
+							<option label="30066">-6%</option>
+							<option label="30067">-5%</option>
+							<option label="30068">-4%</option>
+							<option label="30069">-3%</option>
+							<option label="30070">-2%</option>
+							<option label="30071">-1%</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
