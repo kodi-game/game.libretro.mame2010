@@ -1,1 +1,1 @@
-mame2010 https://github.com/libretro/mame2010-libretro/archive/484456818393505dd4367e6e4c116c573c04a1ec.tar.gz
+mame2010 https://github.com/libretro/mame2010-libretro/archive/dff8aadd1c3f38215af3955746d6e19abe0ddcea.tar.gz
